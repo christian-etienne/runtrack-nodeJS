@@ -1,0 +1,22 @@
+{
+    "tasks": [
+        {
+            "id": 1,
+            "title": "Acheter des bonbons",
+            "description": "aller au rayon sucrerie du supermarché pour les acheter",
+            "completed": false
+        },
+        {
+            "id": 2,
+            "title": "Jouer à FIFA",
+            "description": "Inviter mes amis pour qu'il puisse jouer avec moi",
+            "completed": false
+        },
+        {
+            "id": 3,
+            "title": "Faire du pain",
+            "description": "Acheter un peu de levure et de la farine pour faire ma recette",
+            "completed": false
+        }
+    ]
+}
